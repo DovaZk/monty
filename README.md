@@ -1,5 +1,7 @@
 # MONTY PROJECT
 
+<p align="center"><img src="https://i.ytimg.com/vi/h1pKSEeaNLM/maxresdefault.jpg"/></p> 
+
 ## Description
 This repository contains a monty interpreter.
 
